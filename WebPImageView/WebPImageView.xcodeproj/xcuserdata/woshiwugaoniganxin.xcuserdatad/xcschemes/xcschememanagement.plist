@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>WebPDemo.xcscheme</key>
+		<key>WebPImageView.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4C15FB741DAC908F0035CE7C</key>
+		<key>4600D2A61E53DDEC003F3B48</key>
 		<dict>
 			<key>primary</key>
 			<true/>

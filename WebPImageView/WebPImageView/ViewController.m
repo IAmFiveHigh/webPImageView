@@ -1,9 +1,9 @@
 //
 //  ViewController.m
-//  WebPDemo
+//  WebPImageView
 //
-//  Created by YuTengxiao on 16/10/11.
-//  Copyright © 2016年 YuTengxiao. All rights reserved.
+//  Created by 我是五高你敢信 on 2017/2/15.
+//  Copyright © 2017年 我是五高你敢信. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -20,16 +20,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+
     self.imageView = [[UIImageView alloc] initWithFrame:CGRectMake(10, 10, 100, 100)];
     [self.view addSubview:self.imageView];
-    
-//    UIImageView *iv = [[UIImageView alloc] initWithFrame:CGRectMake(110, 110, 100, 100)];
-//    NSString *path = [[NSBundle mainBundle] pathForResource:@"1" ofType:@"webp"];
-//    NSLog(@"%@",path);
-//    iv.image = [UIImage imageWithWebP:path];
-//    [self.view addSubview:iv];
-    
     
     NSString *path = [[NSBundle mainBundle] pathForResource:@"模拟考试-图标速记" ofType:@""];
     NSString *wholePath = [path stringByAppendingString:@"/signs/trafficSignAll/fuzhuSign/1.webp"];
@@ -49,9 +42,6 @@
     [self.imageView sd_setImageWithURL:[NSURL URLWithString:@"这里放webP的URL地址试试看"]];
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
+
 
 @end
