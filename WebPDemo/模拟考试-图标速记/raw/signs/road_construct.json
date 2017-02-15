@@ -1,0 +1,134 @@
+{
+  "biaozhilist": [
+    {
+      "title": "中间封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/1.webp",
+      "desc": "中间封闭"
+    },
+    {
+      "title": "前方1KM中间封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/3.webp",
+      "desc": "前方1KM中间封闭"
+    },
+    {
+      "title": "前方1KM右道封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/5.webp",
+      "desc": ""
+    },
+    {
+      "title": "前方1KM左道封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/7.webp",
+      "desc": ""
+    },
+    {
+      "title": "前方1KM道路封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/9.webp",
+      "desc": ""
+    },
+    {
+      "title": "前方1KM道路施工",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/11.webp",
+      "desc": ""
+    },
+    {
+      "title": "前方300M右道封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/13.webp",
+      "desc": ""
+    },
+    {
+      "title": "前方300M左道封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/15.webp",
+      "desc": "前方300M左道封闭"
+    },
+    {
+      "title": "前方300M道路封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/17.webp",
+      "desc": ""
+    },
+    {
+      "title": "前方300M道路施工",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/19.webp",
+      "desc": "前方300M道路施工"
+    },
+    {
+      "title": "前方300中间封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/21.webp",
+      "desc": "前方300中间封闭"
+    },
+    {
+      "title": "右道封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/23.webp",
+      "desc": ""
+    },
+    {
+      "title": "向右改道",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/25.webp",
+      "desc": "向右改道"
+    },
+    {
+      "title": "向右行驶",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/27.webp",
+      "desc": "向右行驶"
+    },
+    {
+      "title": "向左改道",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/29.webp",
+      "desc": "向左改道"
+    },
+    {
+      "title": "向左行驶",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/31.webp",
+      "desc": "向左行驶"
+    },
+    {
+      "title": "左道封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/33.webp",
+      "desc": "左道封闭"
+    },
+    {
+      "title": "施工路栏",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/35_0.webp",
+      "desc": "施工路栏"
+    },
+    {
+      "title": "施工路栏",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/35.webp",
+      "desc": "施工路栏"
+    },
+    {
+      "title": "移动性施工标志",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/37.webp",
+      "desc": "移动性施工标志"
+    },
+    {
+      "title": "车辆慢行",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/39.webp",
+      "desc": "车辆慢行"
+    },
+    {
+      "title": "道口标柱",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/41.webp",
+      "desc": "道口标柱"
+    },
+    {
+      "title": "道路封闭",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/43.webp",
+      "desc": ""
+    },
+    {
+      "title": "道路施工",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/45.webp",
+      "desc": ""
+    },
+    {
+      "title": "锥形交通标",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/47_0.webp",
+      "desc": "锥形交通标"
+    },
+    {
+      "title": "锥形交通标",
+      "imageurl": "asset:///signs/trafficSignAll/roadConstruct/47.webp",
+      "desc": "锥形交通标"
+    }
+  ]
+}

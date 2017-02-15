@@ -1,0 +1,99 @@
+{
+  "biaozhilist": [
+    {
+      "title": "色觉检查1",
+      "imageurl": "asset:///signs/colorBlindTest/1.webp",
+      "desc": "每个人看都应该是12"
+    },
+    {
+      "title": "色觉检查2",
+      "imageurl": "asset:///signs/colorBlindTest/23.webp",
+      "desc": "正常色觉的人看到的应该是45.色盲的人看不到任何数字."
+    },
+    {
+      "title": "色觉检查3",
+      "imageurl": "asset:///signs/colorBlindTest/25.webp",
+      "desc": "正常色觉的人看到的应该是29.色盲的人看到的应该是70."
+    },
+    {
+      "title": "色觉检查4",
+      "imageurl": "asset:///signs/colorBlindTest/27.webp",
+      "desc": "正常色觉的人实际上看不到任何数字.色盲的人很容易看出是5."
+    },
+    {
+      "title": "色觉检查5",
+      "imageurl": "asset:///signs/colorBlindTest/29.webp",
+      "desc": "正常色觉的人看到的应该是26.如果你是红色盲,你看到的就只是 6.如果你是绿色盲,你就只能看到2.全色盲再这个图形里面什么也看不到."
+    },
+    {
+      "title": "色觉检查6",
+      "imageurl": "asset:///signs/colorBlindTest/31.webp",
+      "desc": "色觉正常者辨认结果是6"
+    },
+    {
+      "title": "色觉检查7",
+      "imageurl": "asset:///signs/colorBlindTest/33.webp",
+      "desc": "色觉正常者辨认结果是6、9、8"
+    },
+    {
+      "title": "色觉检查8",
+      "imageurl": "asset:///signs/colorBlindTest/35.webp",
+      "desc": "色觉正常者辨认结果是36.色觉异常者不能读，检测出红色盲。"
+    },
+    {
+      "title": "色觉检查9",
+      "imageurl": "asset:///signs/colorBlindTest/37.webp",
+      "desc": "色觉正常者辨认结果是66色觉异常者不能读，检测出红绿色盲"
+    },
+    {
+      "title": "色觉检查10",
+      "imageurl": "asset:///signs/colorBlindTest/3.webp",
+      "desc": "色觉正常者辨认结果是6.色觉异常者全部能读或者部分不能读，检测出绿色盲。"
+    },
+    {
+      "title": "色觉检查11",
+      "imageurl": "asset:///signs/colorBlindTest/5.webp",
+      "desc": "色觉正常者辨认结果是9"
+    },
+    {
+      "title": "色觉检查12",
+      "imageurl": "asset:///signs/colorBlindTest/7.webp",
+      "desc": "色觉正常者辨认结果是8、0、6.色觉异常者不能读，检测出红色盲。"
+    },
+    {
+      "title": "色觉检查13",
+      "imageurl": "asset:///signs/colorBlindTest/9.webp",
+      "desc": "色觉正常者辨认结果是3.色觉异常者不能读，检测出红色弱。"
+    },
+    {
+      "title": "色觉检查14",
+      "imageurl": "asset:///signs/colorBlindTest/11.webp",
+      "desc": "色觉正常者辨认结果是5"
+    },
+    {
+      "title": "色觉检查15",
+      "imageurl": "asset:///signs/colorBlindTest/13.webp",
+      "desc": "色觉正常者辨认结果是6、8、9.色觉异常者不能读，检测出绿色盲。"
+    },
+    {
+      "title": "色觉检查16",
+      "imageurl": "asset:///signs/colorBlindTest/15.webp",
+      "desc": "色觉正常者辨认结果是金鱼"
+    },
+    {
+      "title": "色觉检查17",
+      "imageurl": "asset:///signs/colorBlindTest/17.webp",
+      "desc": "色觉正常者辨认结果是兔子和鸭子.色觉异常者辨认结果是鸭子.红绿色觉异常，检测出红色盲，部分色弱。"
+    },
+    {
+      "title": "色觉检查18",
+      "imageurl": "asset:///signs/colorBlindTest/19.webp",
+      "desc": "色觉正常者辨认结果是A.色觉异常者不能读，检测出A类绿色盲。"
+    },
+    {
+      "title": "色觉检查19",
+      "imageurl": "asset:///signs/colorBlindTest/21.webp",
+      "desc": "色觉正常者辨认结果是C.色觉异常者不能读，检测出B类红色盲。"
+    }
+  ]
+}

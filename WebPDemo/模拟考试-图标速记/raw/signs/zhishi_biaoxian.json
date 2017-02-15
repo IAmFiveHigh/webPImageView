@@ -1,0 +1,169 @@
+{
+  "biaozhilist": [
+    {
+      "title": "人行横道(信号灯路口)",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/1.webp",
+      "desc": "人行横道(信号灯路口)"
+    },
+    {
+      "title": "人行横道(斜交)",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/3.webp",
+      "desc": "人行横道(斜交)"
+    },
+    {
+      "title": "人行横道(正交)",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/5.webp",
+      "desc": "人行横道(正交)"
+    },
+    {
+      "title": "人行横道预告标示",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/7.webp",
+      "desc": "人行横道预告标示"
+    },
+    {
+      "title": "倾斜式停车位",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/9.webp",
+      "desc": "倾斜式停车位"
+    },
+    {
+      "title": "出租车专用上下客车位",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/11.webp",
+      "desc": "出租车专用上下客车位"
+    },
+    {
+      "title": "出租车专用待客停车位",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/13.webp",
+      "desc": "出租车专用待客停车位"
+    },
+    {
+      "title": "双向两车道路面中心线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/15.webp",
+      "desc": "双向两车道路面中心线"
+    },
+    {
+      "title": "垂直式停车位",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/17.webp",
+      "desc": "垂直式停车位"
+    },
+    {
+      "title": "大型车",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/19.webp",
+      "desc": "大型车"
+    },
+    {
+      "title": "小型车",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/21.webp",
+      "desc": "小型车"
+    },
+    {
+      "title": "左弯待转区线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/23.webp",
+      "desc": "左弯待转区线"
+    },
+    {
+      "title": "左转弯导向线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/25.webp",
+      "desc": "左转弯导向线"
+    },
+    {
+      "title": "平行式停车位",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/27.webp",
+      "desc": "平行式停车位"
+    },
+    {
+      "title": "平行式入口标线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/29.webp",
+      "desc": "平行式入口标线"
+    },
+    {
+      "title": "平行式出口标线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/31.webp",
+      "desc": "平行式出口标线"
+    },
+    {
+      "title": "收费岛地面标线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/33.webp",
+      "desc": "收费岛地面标线"
+    },
+    {
+      "title": "最高速度",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/35.webp",
+      "desc": "最高速度"
+    },
+    {
+      "title": "港湾式停靠站",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/37_0.webp",
+      "desc": "港湾式停靠站"
+    },
+    {
+      "title": "港湾式停靠站",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/37.webp",
+      "desc": "港湾式停靠站"
+    },
+    {
+      "title": "直接式入口标线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/39.webp",
+      "desc": "直接式入口标线"
+    },
+    {
+      "title": "直接式出口标线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/41.webp",
+      "desc": "直接式出口标线"
+    },
+    {
+      "title": "行车时的导向箭头",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/43_0.webp",
+      "desc": "行车速度≤40km/h时的导向箭头"
+    },
+    {
+      "title": "行车时的导向箭头",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/43.webp",
+      "desc": "行车速度≤40km/h时的导向箭头"
+    },
+    {
+      "title": "超车道",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/45.webp",
+      "desc": "超车道"
+    },
+    {
+      "title": "车行道分界线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/47_0.webp",
+      "desc": "车行道分界线"
+    },
+    {
+      "title": "车行道分界线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/47.webp",
+      "desc": "车行道分界线"
+    },
+    {
+      "title": "车行道边缘线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/49_0.webp",
+      "desc": "车行道边缘线"
+    },
+    {
+      "title": "车行道边缘线",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/49.webp",
+      "desc": "车行道边缘线"
+    },
+    {
+      "title": "车距确认",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/51.webp",
+      "desc": "车距确认"
+    },
+    {
+      "title": "车距确认线尺寸",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/53.webp",
+      "desc": "车距确认线尺寸"
+    },
+    {
+      "title": "边缘线的尺寸　单位：cm",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/55.webp",
+      "desc": "边缘线的尺寸　单位：cm"
+    },
+    {
+      "title": "非机动车车道标记",
+      "imageurl": "asset:///signs/trafficSignAll/zhishi_biaoxian/57.webp",
+      "desc": "非机动车车道标记"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "biaozhilist": [
+    {
+      "title": "Y形路口导流线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/1.webp",
+      "desc": "不规则路口导流线"
+    },
+    {
+      "title": "三车道标线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/3.webp",
+      "desc": "三车道标线"
+    },
+    {
+      "title": "不规则路口导流线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/5.webp",
+      "desc": "不规则路口导流线"
+    },
+    {
+      "title": "专用车道线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/7.webp",
+      "desc": "专用车道线"
+    },
+    {
+      "title": "中心圈",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/9_0.webp",
+      "desc": "中心圈"
+    },
+    {
+      "title": "中心圈",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/9.webp",
+      "desc": "中心圈"
+    },
+    {
+      "title": "中心黄色双实线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/11.webp",
+      "desc": "中心黄色双实线"
+    },
+    {
+      "title": "中心黄色虚实线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/13.webp",
+      "desc": "中心黄色虚实线"
+    },
+    {
+      "title": "信号灯路口的停止线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/15.webp",
+      "desc": "信号灯路口的停止线"
+    },
+    {
+      "title": "停止线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/17.webp",
+      "desc": "停止线"
+    },
+    {
+      "title": "停车让行线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/19.webp",
+      "desc": "停车让行线"
+    },
+    {
+      "title": "减速让行线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/21.webp",
+      "desc": "减速让行线"
+    },
+    {
+      "title": "复杂行驶条件丁字路口导流线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/23.webp",
+      "desc": "复杂行驶条件丁字路口导流线"
+    },
+    {
+      "title": "复杂行驶条件十字路口导流线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/25.webp",
+      "desc": "复杂行驶条件十字路口导流线"
+    },
+    {
+      "title": "支路口主干道相交路口导流线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/27.webp",
+      "desc": "支路口主干道相交路口导流线"
+    },
+    {
+      "title": "斜交丁字路口导流线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/29.webp",
+      "desc": "斜交丁字路口导流线"
+    },
+    {
+      "title": "禁止变换车道线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/31.webp",
+      "desc": "禁止变换车道线"
+    },
+    {
+      "title": "禁止掉头",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/33.webp",
+      "desc": "禁止掉头"
+    },
+    {
+      "title": "禁止路边临时或长时停放车辆线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/35.webp",
+      "desc": "禁止路边临时或长时停放车辆线"
+    },
+    {
+      "title": "禁止路边长时停放车辆线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/37.webp",
+      "desc": "禁止路边长时停放车辆线"
+    },
+    {
+      "title": "禁驶区标线尺寸　单位cm",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/40.webp",
+      "desc": "禁驶区标线尺寸   单位cm"
+    },
+    {
+      "title": "简化网状线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/41.webp",
+      "desc": "简化网状线"
+    },
+    {
+      "title": "网状线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/43.webp",
+      "desc": "中心圈"
+    },
+    {
+      "title": "非机动车禁驶区标线",
+      "imageurl": "asset:///signs/trafficSignAll/jinzhi_biaoxian/45.webp",
+      "desc": "非机动车禁驶区标线"
+    }
+  ]
+}

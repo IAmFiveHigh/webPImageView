@@ -1,0 +1,118 @@
+{
+  "categorylist": [
+    {
+      "title": "交通标志大全",
+      "count": "389张",
+      "iconurl1": "asset:///signs/trafficSignAll/jinlingSign/1.webp",
+      "iconurl2": "asset:///signs/trafficSignAll/warningSign/2.webp",
+      "iconurl3": "asset:///signs/trafficSignAll/zhishiSign/2.webp",
+      "iconurl4": "asset:///signs/trafficSignAll/lvyouquSign/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "list_second",
+          "pageType": 0,
+          "title": "交通标志大全"
+        },
+        "pagetype": "biaozhilist",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "汽车仪表盘指示灯",
+      "count": "21张",
+      "iconurl1": "asset:///signs/carPanelLight/1.webp",
+      "iconurl2": "asset:///signs/carPanelLight/3.webp",
+      "iconurl3": "asset:///signs/carPanelLight/5.webp",
+      "iconurl4": "asset:///signs/carPanelLight/7.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "grid_car_panel_light",
+          "pageType": 3,
+          "title": "汽车仪表盘指示灯"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "交警手势",
+      "count": "8张",
+      "iconurl1": "asset:///signs/policeGesture/1.webp",
+      "iconurl2": "asset:///signs/policeGesture/3.webp",
+      "iconurl3": "asset:///signs/policeGesture/5.webp",
+      "iconurl4": "asset:///signs/policeGesture/7.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "grid_police_shoushi",
+          "pageType": 3,
+          "title": "交警手势"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "车内功能按键",
+      "count": "6张",
+      "iconurl1": "asset:///signs/carFouction/1.webp",
+      "iconurl2": "asset:///signs/carFouction/3.webp",
+      "iconurl3": "asset:///signs/carFouction/5.webp",
+      "iconurl4": "asset:///signs/carFouction/7.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "grid_car_fouction",
+          "pageType": 3,
+          "title": "车内功能按键"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "交通事故责任认定图解",
+      "count": "35张",
+      "iconurl1": "asset:///signs/trafficAccident/1.webp",
+      "iconurl2": "asset:///signs/trafficAccident/3.webp",
+      "iconurl3": "asset:///signs/trafficAccident/5.webp",
+      "iconurl4": "asset:///signs/trafficAccident/7.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "grid_traffic_accident",
+          "title": "交通事故责任认定图解",
+          "pageType": 3
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "色盲测试图集",
+      "count": "19张",
+      "iconurl1": "asset:///signs/colorBlindTest/1.webp",
+      "iconurl2": "asset:///signs/colorBlindTest/3.webp",
+      "iconurl3": "asset:///signs/colorBlindTest/5.webp",
+      "iconurl4": "asset:///signs/colorBlindTest/7.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "grid_color_blind",
+          "pageType": 3,
+          "title": "色盲测试图集"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    }
+  ]
+}

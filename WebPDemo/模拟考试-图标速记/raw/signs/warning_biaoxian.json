@@ -1,0 +1,69 @@
+{
+  "biaozhilist": [
+    {
+      "title": "三车道斑马线过渡",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/1.webp",
+      "desc": "三车道斑马线过渡"
+    },
+    {
+      "title": "三车道缩减为双车道",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/3.webp",
+      "desc": "三车道缩减为双车道"
+    },
+    {
+      "title": "减速标线",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/5.webp",
+      "desc": "减速标线"
+    },
+    {
+      "title": "双向两车道改变为双向四车道",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/7.webp",
+      "desc": "双向两车道改变为双向四车道"
+    },
+    {
+      "title": "双车道中间有障碍",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/9.webp",
+      "desc": "双车道中间有障碍"
+    },
+    {
+      "title": "同方向二车道中间有障碍",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/11.webp",
+      "desc": "同方向二车道中间有障碍"
+    },
+    {
+      "title": "四车道中间有障碍",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/13.webp",
+      "desc": "四车道中间有障碍"
+    },
+    {
+      "title": "四车道缩减为三车道",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/15.webp",
+      "desc": "四车道缩减为三车道"
+    },
+    {
+      "title": "四车道缩减为两车道",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/17.webp",
+      "desc": "四车道缩减为两车道"
+    },
+    {
+      "title": "四车道缩减为双车道",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/19.webp",
+      "desc": "四车道缩减为双车道"
+    },
+    {
+      "title": "收费广场减速标线设置例",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/21.webp",
+      "desc": "收费广场减速标线设置例"
+    },
+    {
+      "title": "立面标记",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/23.webp",
+      "desc": "立面标记"
+    },
+    {
+      "title": "铁路平交道口标线",
+      "imageurl": "asset:///signs/trafficSignAll/warning_biaoxian/25.webp",
+      "desc": "铁路平交道口标线"
+    }
+  ]
+}

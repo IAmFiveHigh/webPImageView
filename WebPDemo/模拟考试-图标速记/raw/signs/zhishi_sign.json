@@ -1,0 +1,149 @@
+{
+  "biaozhilist": [
+    {
+      "title": "人行横道",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/1.webp",
+      "desc": "表示该处为专供行人横穿马路的通道。此标志设在人行横道的两侧。"
+    },
+    {
+      "title": "会车先行",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/3.webp",
+      "desc": "表示会车先行，此标志设在车道以前适当位置。"
+    },
+    {
+      "title": "允许掉头",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/5.webp",
+      "desc": "表示允许掉头。此标志设在允许机动车掉头路段的起点和路口以前适当位置。"
+    },
+    {
+      "title": "公交线路专用车道",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/7.webp",
+      "desc": "表示该车道专供本线路行驶的公交车辆行驶。此标志设在进入该车道的起点及各交叉口入口处以前适当位置。"
+    },
+    {
+      "title": "分向行驶车道",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/9.webp",
+      "desc": "表示车道的行驶方向。此标志设在导向车道以前适当位置"
+    },
+    {
+      "title": "单行路 直行",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/11.webp",
+      "desc": "表示一切车辆单向行驶。此标志设在单行路的路口和入口处的适当位置。"
+    },
+    {
+      "title": "单行路向左或向右",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/13.webp",
+      "desc": "表示一切车辆向左或向右单向行驶。此标志设在单行路的路口和入口处的适当位置。"
+    },
+    {
+      "title": "右转车道",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/15.webp",
+      "desc": "表示车道的行驶方向。此标志设在导向车道以前适当位置。"
+    },
+    {
+      "title": "向右转弯",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/17.webp",
+      "desc": "表示只准一切车辆向右转弯。此标志设在车辆必须向右转弯的路口以前适当位置。"
+    },
+    {
+      "title": "向左和向右转弯",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/19.webp",
+      "desc": "表示只准一切车辆向左和向右转弯。此标志设在车辆必须向左和向右转弯的路口以前适当位置。"
+    },
+    {
+      "title": "向左转弯",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/21.webp",
+      "desc": "表示只准一切车辆向左转弯。此标志设在车辆必须向左转弯的路口以前适当位置。"
+    },
+    {
+      "title": "干路先行",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/23.webp",
+      "desc": "表示干路先行，此标志设在车道以前适当位置。"
+    },
+    {
+      "title": "最低限速",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/25.webp",
+      "desc": "表示机动车驶入前方道路之最低时速限制。此标志设在高速公路或其他道路限速路段的起点。"
+    },
+    {
+      "title": "机动车行驶",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/27.webp",
+      "desc": "表示车道机动车行驶。此标志设在道路或车道的起点及交叉路口入口处前适当位置。"
+    },
+    {
+      "title": "机动车车道",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/29.webp",
+      "desc": "表示该车道只供机动车行驶。设在该车道的起点及交叉路口和入口前适当位置。在标志无法正对车道时，可以不标注箭头。"
+    },
+    {
+      "title": "步行",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/31.webp",
+      "desc": "表示该街道只供步行。此标志设在步行街的两端。"
+    },
+    {
+      "title": "环岛行驶",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/33.webp",
+      "desc": "表示只准车辆靠右环行。此标志设在环岛面向路口来车方向适当位置。"
+    },
+    {
+      "title": "直行",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/35.webp",
+      "desc": "表示只准一切车辆直行。此标志设在直行的路口以前适当位置。"
+    },
+    {
+      "title": "直行和右转合用车道",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/37.webp",
+      "desc": "表示车道的行驶方向。此标志设在导向车道以前适当位置。"
+    },
+    {
+      "title": "直行和向右转弯",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/39.webp",
+      "desc": "表示只准一切车辆直行和向右转弯。此标志设在车辆必须直行和向右转弯的路口以前适当位置。"
+    },
+    {
+      "title": "直行和向左转弯",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/41.webp",
+      "desc": "表示只准一切车辆直行和向左转弯。此标志设在车辆必须直行和向左转弯的路口以前适当位置。"
+    },
+    {
+      "title": "直行车道",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/43.webp",
+      "desc": "表示车道的行驶方向。此标志设在导向车道以前适当位置。"
+    },
+    {
+      "title": "立交直行和右转弯行驶",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/45.webp",
+      "desc": "表示车辆在立交处可以直行和按图示路线右转弯行驶。此标志设在立交右转弯出口处适当位置。"
+    },
+    {
+      "title": "立交直行和左转弯行驶",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/47.webp",
+      "desc": "表示车辆在立交处可以直行和按图示路线左转弯行驶。此标志设在立交左转弯出口处适当位置。"
+    },
+    {
+      "title": "非机动车行驶",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/49.webp",
+      "desc": "表示非机动车行驶。此标志设在道路或车道的起点及交叉路口入口处前适当位置。"
+    },
+    {
+      "title": "非机动车车道",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/51.webp",
+      "desc": "表示该车道只供非机动车行驶。设在该车道的起点及交叉路口和入口前适当位置。在标志无法正对车道时，可以不标注箭头。"
+    },
+    {
+      "title": "靠右侧道路行驶",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/53.webp",
+      "desc": "表示只准一切车辆靠右侧道路行驶。此标志设在车辆必须靠右侧行驶的路口以前适当位置。"
+    },
+    {
+      "title": "靠左侧道路行驶",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/55.webp",
+      "desc": "表示只准一切车辆靠左侧道路行驶。此标志设在车辆必须靠左侧行驶的路口以前适当位置。"
+    },
+    {
+      "title": "鸣喇叭",
+      "imageurl": "asset:///biaozhi/trafficSignAll/zhishiSign/57.webp",
+      "desc": "表示机动车行至该标志处必须鸣喇叭。此标志设在公路的急转弯处、陡坡等视线不良路段的起点。"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "categorylist": [
+    {
+      "title": "禁令标志",
+      "count": "42张",
+      "iconurl1": "asset:///signs/trafficSignAll/jinlingSign/25.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "jinling_sign",
+          "pageType": 3,
+          "title": "禁令标志"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "交通标志大全",
+        "url": ""
+      }
+    },
+    {
+      "title": "警告标志",
+      "count": "48张",
+      "iconurl1": "asset:///signs/trafficSignAll/warningSign/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "warning_sign",
+          "pageType": 3,
+          "title": "警告标志"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "指示标志",
+      "count": "29张",
+      "iconurl1": "asset:///signs/trafficSignAll/zhishiSign/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "zhishi_sign",
+          "pageType": 3,
+          "title": "指示标志"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "指路标志",
+      "count": "126张",
+      "iconurl1": "asset:///signs/trafficSignAll/zhiluSign/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "zhilu_sign",
+          "pageType": 3,
+          "title": "指路标志"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "道路施工安全标志",
+      "count": "26张",
+      "iconurl1": "asset:///signs/trafficSignAll/roadConstruct/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "road_construct",
+          "pageType": 3,
+          "title": "道路施工安全标志"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "旅游区标志",
+      "count": "17张",
+      "iconurl1": "asset:///signs/trafficSignAll/lvyouquSign/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "lvyouqu_sign",
+          "pageType": 3,
+          "title": "旅游区标志"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "辅助标志",
+      "count": "16张",
+      "iconurl1": "asset:///signs/trafficSignAll/fuzhuSign/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "fuzhu_sign",
+          "pageType": 3,
+          "title": "辅助标志"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "禁止标线",
+      "count": "24张",
+      "iconurl1": "asset:///signs/trafficSignAll/jinzhi_biaoxian/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "jinzhi_biaoxian",
+          "pageType": 3,
+          "title": "禁止标线"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "警告标线",
+      "count": "13张",
+      "iconurl1": "asset:///signs/trafficSignAll/warning_biaoxian/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "warning_biaoxian",
+          "pageType": 3,
+          "title": "警告标线"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "指示标线",
+      "count": "33张",
+      "iconurl1": "asset:///signs/trafficSignAll/zhishi_biaoxian/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "zhishi_biaoxian",
+          "pageType": 3,
+          "title": "指示标线"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    },
+    {
+      "title": "道路安全设施设置",
+      "count": "15张",
+      "iconurl1": "asset:///signs/trafficSignAll/signRoadSafe/2.webp",
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "road_safe",
+          "pageType": 3,
+          "title": "道路安全设施设置"
+        },
+        "pagetype": "biaozhigrid",
+        "title": "",
+        "url": ""
+      }
+    }
+  ]
+}

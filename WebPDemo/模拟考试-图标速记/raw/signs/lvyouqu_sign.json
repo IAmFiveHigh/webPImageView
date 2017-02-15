@@ -1,0 +1,89 @@
+{
+  "biaozhilist": [
+    {
+      "title": "冬季浏览区",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/1.webp",
+      "desc": "冬季浏览区"
+    },
+    {
+      "title": "划船",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/3.webp",
+      "desc": "划船"
+    },
+    {
+      "title": "徒步",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/5.webp",
+      "desc": "徒步"
+    },
+    {
+      "title": "旅游区方向",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/7.webp",
+      "desc": "旅游区方向"
+    },
+    {
+      "title": "旅游区距离",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/9.webp",
+      "desc": "旅游区距离"
+    },
+    {
+      "title": "游戏场",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/11.webp",
+      "desc": "游戏场"
+    },
+    {
+      "title": "游泳",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/13.webp",
+      "desc": "游泳"
+    },
+    {
+      "title": "滑冰",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/15.webp",
+      "desc": "滑冰"
+    },
+    {
+      "title": "滑雪",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/17.webp",
+      "desc": "滑雪"
+    },
+    {
+      "title": "潜水",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/19.webp",
+      "desc": "潜水"
+    },
+    {
+      "title": "索道",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/21.webp",
+      "desc": "索道"
+    },
+    {
+      "title": "营火",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/23.webp",
+      "desc": "营火"
+    },
+    {
+      "title": "野营地",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/25.webp",
+      "desc": "野营地"
+    },
+    {
+      "title": "钓鱼",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/27.webp",
+      "desc": "钓鱼"
+    },
+    {
+      "title": "问询处",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/29.webp",
+      "desc": "问询处"
+    },
+    {
+      "title": "骑马",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/31.webp",
+      "desc": "骑马"
+    },
+    {
+      "title": "高尔夫球",
+      "imageurl": "asset:///signs/trafficSignAll/lvyouquSign/33.webp",
+      "desc": "高尔夫球"
+    }
+  ]
+}
